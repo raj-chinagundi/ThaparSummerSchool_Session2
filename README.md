@@ -8,11 +8,11 @@ How to Download and Install Orange Data Mining Tool <br>
 [Orange Software](https://orange.biolab.si/download/)
 
 
-## 2. Install Orange Data Mining Tool
+<!-- ## 2. Install Orange Data Mining Tool
 
-[Video guide](https://www.youtube.com/watch?v=_vgslAii7ho)
+[Video guide](https://www.youtube.com/watch?v=_vgslAii7ho)-->
 
-About Orange Tool: Orange is an open-source data visualization, machine learning and data mining toolkit. It features a visual programming front-end for explorative data analysis and interactive data visualization, and can also be used as a Python library. [Docs](https://orange.biolab.si/docs/)
+About Orange Tool: Orange is an open-source data visualization, machine learning and data mining toolkit. It features a visual programming front-end for explorative data analysis and interactive data visualization, and can also be used as a Python library. [Docs](https://orange.biolab.si/docs/) 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
