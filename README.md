@@ -5,7 +5,7 @@ How to Download and Install Orange Data Mining Tool <br>
 
 ## 1. Download Orange Tool
 
-[Orange Software](https://orange.biolab.si/download/)
+[Orange Software](https://pypi.org/project/Orange3/)
 
 
 <!-- ## 2. Install Orange Data Mining Tool
