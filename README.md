@@ -1,4 +1,4 @@
-# ThaparSummerSchool_TimeSeries
+# ThaparSummerSchool
 ## Session 2 Prerequisites
 
 How to Download and Install Orange Data Mining Tool <br>
