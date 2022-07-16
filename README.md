@@ -6,6 +6,11 @@ How to Download and Install Orange Data Mining Tool <br>
 ## 1. Download Orange Tool
 
 [Orange Software](https://pypi.org/project/Orange3/)
+### Install Orange
+```pip install orange3```
+
+### Run from command line
+```orange-canvas```
 
 
 <!-- ## 2. Install Orange Data Mining Tool
